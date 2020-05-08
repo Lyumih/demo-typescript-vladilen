@@ -29,4 +29,3 @@ function infinit() {
 var login = "admin";
 var id1 = 1234;
 var id2 = "1234";
-// const id1: ID = true
